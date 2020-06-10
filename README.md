@@ -1,2 +1,2 @@
 # digit-recognition
-AP Computer Science A final project
+Final project for AP Computer Science A
