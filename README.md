@@ -1,5 +1,4 @@
 # digit-recognition
-Final project for AP Computer Science A
-- Built using Pygame and Pytorch libraries
-- Uses a convolutional neural network trained on the MNIST dataset
+Final project for AP Computer Science A\
+                                       \
 ![](demo.gif)
