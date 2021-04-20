@@ -257,7 +257,7 @@ ptpython==3.0.1
 ptvsd==4.3.2
 ptyprocess==0.6.0
 PuLP==1.6.10
-py==1.8.1
+py==1.10.0
 pyaml==20.3.1
 pyarrow==0.16.0
 PyAudio==0.2.11
