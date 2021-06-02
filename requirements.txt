@@ -395,7 +395,7 @@ typed-ast==1.4.1
 typing-extensions==3.7.4.1
 tzlocal==1.5.1
 uncertainties==3.1.2
-urllib3==1.25.8
+urllib3==1.26.5
 uvicorn==0.11.3
 vega==3.1.0
 vega-datasets==0.8.0
