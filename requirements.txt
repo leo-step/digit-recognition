@@ -168,7 +168,7 @@ llvmlite==0.31.0
 lmfit==1.0.0
 locket==0.2.0
 loky==2.6.0
-lxml==4.5.0
+lxml==4.9.1
 Markdown==3.2.1
 MarkupSafe==1.1.1
 marshmallow==3.5.1
