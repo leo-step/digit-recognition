@@ -195,7 +195,7 @@ mypy==0.770
 mypy-extensions==0.4.3
 mysql-connector-python==8.0.18
 nbclient==0.1.0
-nbconvert==5.6.1
+nbconvert==6.5.1
 nbconvert-reportlab==0.2
 nbformat==5.0.4
 netCDF4==1.5.3
